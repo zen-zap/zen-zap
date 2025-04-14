@@ -1,11 +1,9 @@
 Hi, I'm Ashutosh! 👋
 ---
 
-I'm passionate about **Low-Level Engineering, Rust, and Competitive Programming**. I love building efficient systems and exploring deep learning. Currently, I'm working on projects in **Rust** to sharpen my skills.
+I'm passionate about **Low-Level Engineering & Rust**. I love building efficient systems and exploring deep learning. Currently, I'm working on projects in **Rust** to sharpen my skills.
 
-### 🚀 What I'm Working On
-
-### 🌐 **Rust Projects**
+### 🌐 **Ongoing Rust Projects**
 - something that's kind of a database ..where you can store data with simple commands
 - a lox interpreter from the codecrafters challenge
 - a micro-kernel from Phillip Oppperman's blog
